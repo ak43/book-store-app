@@ -5,7 +5,7 @@ const User = require('../models/User');
 // Used databaseConfig.js for DB connection string
 /*
 try {
-    mongoose.connect("mongodb+srv://ak43:1234@cluster0.mugeocx.mongodb.net/bookstore?retryWrites=true&w=majority");
+    mongoose.connect("mongodb+srv://********:*********@cluster0.mugeocx.mongodb.net/bookstore?retryWrites=true&w=majority");
 } catch (error) {
     console.log(error);
 }
